@@ -1,4 +1,4 @@
-## Appwrite Blog
+# Appwrite Blog
 
 A simple blog application built with React and Appwrite, featuring user authentication, CRUD operations, and a clean, responsive design. This project showcases how to integrate Appwrite as a backend service for managing users and data, deployed on Vercel.
 
@@ -19,12 +19,12 @@ A simple blog application built with React and Appwrite, featuring user authenti
 
 To run this project locally, follow these steps:
 
-## Prerequisites
+### Prerequisites
 
 - Node.js and npm installed on your machine.
 - An Appwrite server set up (you can use Appwrite Cloud or self-host it).
 
-## Installation
+### Installation
 
 1. Clone the repository: `git clone https://github.com/amanpandey3956/Appwrite-Blog.git`.
 
