@@ -1,4 +1,4 @@
-# Appwrite Blog
+# Appwrite Blog-App
 
 A simple blog application built with React and Appwrite, featuring user authentication, CRUD operations, and a clean, responsive design. This project showcases how to integrate Appwrite as a backend service for managing users and data, deployed on Vercel.
 
@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 * Create an account and set up a new project on Appwrite.
 * Configure the API endpoint and project ID in your React application (check the .env file for the necessary variables).
 
-5. Start the development server: `npm start`.
+5. Start the development server: `npm run dev`.
 
 Your application should now be running on [http://localhost:5173](http://localhost:5173).
 
